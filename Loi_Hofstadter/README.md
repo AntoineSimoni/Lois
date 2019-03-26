@@ -13,5 +13,5 @@ D'après cette loi, il est presque impossible de prévoir le temps qui sera néc
 
 La meilleure méthode est surement d'appliquer une marge de temps sur les projets afin d'éviter au maximum les retards.
 
-De plus, afin d'éviter le ralentissement d'autres personnes il est conseillé d'éviter de faire deux tâches dépendant l'une de l'autre en même temps.
+De plus, afin d'éviter le ralentissement d'autres personnes il est conseillé d'éviter de faire des tâches dépendantq l'une de l'autre en même temps.
 
