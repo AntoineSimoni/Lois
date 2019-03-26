@@ -9,7 +9,7 @@ Cette loi à été énoncé par Douglas Hofstadter Dans une de ces oeuvres
 
 D'après cette loi, il est presque impossible de prévoir le temps qui sera nécessaire à l'accomplissement d'une tâche complexe. 
 
-### Comment l'éviter. 
+### Comment l'éviter ?
 
 La meilleure méthode est surement d'appliquer une marge de temps sur les projets afin d'éviter au maximum les retards.
 
