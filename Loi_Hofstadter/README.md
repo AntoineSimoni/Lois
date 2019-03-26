@@ -5,7 +5,13 @@
 
 Cette loi à été énoncé par Douglas Hofstadter Dans une de ces oeuvres
 
-### Que dit-elle
+### Que dit-elle ?
 
 D'après cette loi, il est presque impossible de prévoir le temps qui sera nécessaire à l'accomplissement d'une tâche complexe. 
-Cette impossibilité est mise en exergue par le caractère auto-référentiel de la phrase qui se cite elle-même : de ce fait, elle introduit l'imprédicativité ou « raisonnement en boucle ». 
+
+### Comment l'éviter. 
+
+La meilleure méthode est surement d'appliquer une marge de temps sur les projets afin d'éviter au maximum les retards.
+
+De plus, afin d'éviter le ralentissement d'autres personnes il est conseillé d'éviter de faire deux tâches dépendant l'une de l'autre en même temps.
+
